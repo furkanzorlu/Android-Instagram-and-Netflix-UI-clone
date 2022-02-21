@@ -1,4 +1,4 @@
-# Android-Instagram and Spotify UI clone
+# Android-Instagram and Netflix UI clone
  Instagram and Spotify UI clone
 #Instagram
 ![Screenshot_1642777405](https://user-images.githubusercontent.com/49489211/154967216-d914292f-11fd-423a-8091-b461935621fd.png)
